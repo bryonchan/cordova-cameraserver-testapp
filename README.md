@@ -1,0 +1,1 @@
+Ionic test app using Cordova CameraServer plugin (https://github.com/Moonware/cordova-cameraserver)
